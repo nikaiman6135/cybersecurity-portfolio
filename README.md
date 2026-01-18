@@ -18,7 +18,12 @@ I am a **Vulnerability Assessment & Penetration Testing (VAPT) Executive** withi
 * **Google Cybersecurity Certificate** | Coursera
 * **CSX Cybersecurity Fundamentals** | ISACA
 
-## 4. Project Experience
+## 4. Professional Experience (Industry Highlights)
+* **VAPT Executive (Banking Industry):** Managing security assessments across applications and infrastructure. I specialize in automating vulnerability tracking and remediation using **ServiceNow Vulnerability Response** to improve organizational visibility and accuracy.
+* **Tier 1 SOC Analyst (Financial Sector):** Handled real-time incident response, security monitoring, and alert triaging to mitigate emerging threats.
+* **Security Consultant Intern (Cybersecurity Firm):** Assisted in network-wide vulnerability testing and risk analysis for various client systems.
+
+## 5. Project Experience
 
 ### Project 1: AI-Based Threat Hunter
 * **Objective:** Create an intelligent system for real-time network threat identification.
@@ -28,3 +33,14 @@ I am a **Vulnerability Assessment & Penetration Testing (VAPT) Executive** withi
 ### Project 2: AI-Driven Vulnerability Prioritization
 * **Objective:** Developing a framework for automated security scoring to prioritize high-risk vulnerabilities.
 * **Focus:** Integrating research from my UM Master’s program to enhance traditional VAPT workflows with AI-driven risk assessments.
+
+## 6. Learning Journey
+My path began with a strong academic foundation in network security, which I have since applied across SOC and VAPT roles in the banking sector. A major milestone in my journey has been transitioning from manual assessments to automated lifecycle management using enterprise tools like **ServiceNow**. While my networking background is robust, I am currently challenging myself with the **EC-Council CPENT** practice environment to master advanced exploit automation and bridge the gap between academic research and elite-level technical execution.
+
+## 7. Career Objective
+To leverage my experience in financial security and my research in AI to become a Lead Security Architect, focused on building automated, resilient defense frameworks for global enterprises.
+
+## 8. Contact Information
+* **Email:** 25067162@siswa.um.edu.my
+* **LinkedIn:** https://www.linkedin.com/in/nikmohammadaiman/
+* **Location:** Sepang, Selangor, Malaysia
