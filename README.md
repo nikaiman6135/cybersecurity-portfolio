@@ -17,3 +17,14 @@ I am a **Vulnerability Assessment & Penetration Testing (VAPT) Executive** withi
 * **C)PTE:** Certified Penetration Testing Engineer | Mile2
 * **Google Cybersecurity Certificate** | Coursera
 * **CSX Cybersecurity Fundamentals** | ISACA
+
+## 4. Project Experience
+
+### Project 1: AI-Based Threat Hunter
+* **Objective:** Create an intelligent system for real-time network threat identification.
+* **Tools:** Python, Scapy, Gaussian Copula (GANs).
+* **Outcome:** Successfully built a model capable of classifying complex network traffic patterns and detecting anomalies.
+
+### Project 2: AI-Driven Vulnerability Prioritization
+* **Objective:** Developing a framework for automated security scoring to prioritize high-risk vulnerabilities.
+* **Focus:** Integrating research from my UM Master’s program to enhance traditional VAPT workflows with AI-driven risk assessments.
